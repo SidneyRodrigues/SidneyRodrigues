@@ -3,7 +3,7 @@
 <!-- Presentation -->
 <p>
 
-  - 📚 I’m currently studying Systems Analysis and Development and study full stack development with Java.
+  - 📚 I’m currently studying Systems Analysis and Development and study Full Stack development with Java.
 
   - 🔭 I am looking for my first job opportunity.
 
